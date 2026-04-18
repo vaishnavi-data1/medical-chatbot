@@ -1,0 +1,1001 @@
+Disease,Symptoms,Prescription,Tests,Precautions,Doctor_Category,Description,Severity_Score
+Common Cold,sneezing runny nose case_0,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_1,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_2,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_3,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_4,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_5,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_6,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_7,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_8,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_9,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_10,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_11,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_12,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_13,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_14,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_15,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_16,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_17,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_18,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_19,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_20,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_21,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_22,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_23,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_24,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_25,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_26,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_27,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_28,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_29,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_30,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_31,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_32,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_33,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_34,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_35,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_36,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_37,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_38,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_39,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_40,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_41,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_42,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_43,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_44,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_45,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_46,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_47,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_48,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_49,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_50,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_51,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_52,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_53,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_54,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_55,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_56,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_57,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_58,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_59,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_60,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_61,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_62,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_63,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_64,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_65,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_66,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_67,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_68,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_69,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_70,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_71,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_72,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_73,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_74,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_75,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_76,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_77,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_78,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_79,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_80,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_81,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_82,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_83,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_84,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_85,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_86,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_87,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_88,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_89,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_90,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_91,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_92,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_93,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_94,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_95,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_96,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_97,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_98,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_99,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_100,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_101,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_102,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_103,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_104,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_105,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_106,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_107,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_108,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_109,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_110,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_111,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_112,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_113,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_114,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_115,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_116,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_117,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_118,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_119,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_120,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_121,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_122,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_123,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_124,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_125,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_126,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_127,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_128,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_129,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_130,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_131,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_132,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_133,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_134,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_135,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_136,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_137,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_138,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_139,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_140,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_141,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_142,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_143,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_144,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_145,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_146,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_147,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_148,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_149,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_150,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_151,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_152,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_153,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_154,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_155,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_156,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_157,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_158,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_159,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_160,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_161,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_162,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_163,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_164,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_165,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_166,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_167,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_168,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_169,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_170,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_171,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_172,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_173,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_174,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_175,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_176,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_177,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_178,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_179,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_180,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_181,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_182,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_183,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_184,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_185,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_186,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_187,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_188,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_189,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_190,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_191,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_192,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_193,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_194,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_195,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_196,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_197,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_198,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_199,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_200,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_201,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_202,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_203,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_204,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_205,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_206,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_207,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_208,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_209,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_210,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_211,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_212,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_213,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_214,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_215,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_216,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_217,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_218,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_219,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_220,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_221,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_222,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_223,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_224,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_225,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_226,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_227,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_228,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_229,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_230,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_231,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_232,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_233,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_234,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_235,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_236,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_237,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_238,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_239,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_240,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_241,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_242,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_243,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_244,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_245,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_246,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_247,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_248,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_249,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_250,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_251,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_252,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_253,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_254,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_255,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_256,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_257,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_258,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_259,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_260,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_261,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_262,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_263,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_264,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_265,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_266,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_267,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_268,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_269,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_270,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_271,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_272,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_273,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_274,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_275,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_276,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_277,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_278,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_279,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_280,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_281,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_282,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_283,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_284,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_285,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_286,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_287,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_288,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_289,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_290,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_291,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_292,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_293,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_294,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_295,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_296,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_297,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_298,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_299,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_300,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_301,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_302,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_303,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_304,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_305,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_306,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_307,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_308,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_309,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_310,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_311,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_312,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_313,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_314,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_315,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_316,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_317,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_318,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_319,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_320,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_321,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_322,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_323,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_324,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_325,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_326,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_327,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_328,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_329,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_330,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_331,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_332,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_333,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_334,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_335,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_336,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_337,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_338,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_339,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_340,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_341,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_342,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_343,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_344,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_345,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_346,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_347,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_348,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_349,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_350,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_351,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_352,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_353,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_354,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_355,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_356,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_357,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_358,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_359,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_360,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_361,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_362,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_363,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_364,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_365,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_366,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_367,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_368,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_369,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_370,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_371,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_372,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_373,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_374,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_375,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_376,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_377,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_378,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_379,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_380,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_381,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_382,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_383,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_384,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_385,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_386,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_387,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_388,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_389,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_390,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_391,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_392,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_393,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_394,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_395,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_396,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_397,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_398,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_399,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_400,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_401,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_402,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_403,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_404,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_405,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_406,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_407,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_408,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_409,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_410,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_411,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_412,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_413,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_414,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_415,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_416,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_417,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_418,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_419,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_420,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_421,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_422,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_423,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_424,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_425,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_426,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_427,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_428,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_429,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_430,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_431,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_432,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_433,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_434,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_435,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_436,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_437,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_438,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_439,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_440,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_441,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_442,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_443,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_444,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_445,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_446,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_447,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_448,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_449,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_450,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_451,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_452,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_453,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_454,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_455,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_456,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_457,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_458,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_459,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_460,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_461,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_462,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_463,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_464,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_465,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_466,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_467,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_468,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_469,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_470,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_471,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_472,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_473,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_474,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_475,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_476,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_477,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_478,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_479,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_480,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_481,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_482,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_483,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_484,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_485,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_486,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_487,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_488,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_489,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_490,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_491,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_492,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_493,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_494,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_495,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_496,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_497,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_498,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_499,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_500,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_501,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_502,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_503,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_504,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_505,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_506,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_507,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_508,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_509,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_510,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_511,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_512,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_513,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_514,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_515,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_516,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_517,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_518,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_519,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_520,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_521,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_522,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_523,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_524,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_525,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_526,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_527,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_528,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_529,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_530,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_531,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_532,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_533,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_534,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_535,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_536,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_537,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_538,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_539,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_540,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_541,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_542,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_543,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_544,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_545,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_546,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_547,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_548,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_549,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_550,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_551,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_552,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_553,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_554,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_555,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_556,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_557,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_558,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_559,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_560,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_561,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_562,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_563,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_564,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_565,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_566,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_567,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_568,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_569,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_570,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_571,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_572,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_573,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_574,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_575,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_576,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_577,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_578,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_579,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_580,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_581,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_582,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_583,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_584,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_585,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_586,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_587,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_588,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_589,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_590,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_591,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_592,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_593,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_594,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_595,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_596,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_597,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_598,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_599,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_600,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_601,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_602,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_603,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_604,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_605,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_606,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_607,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_608,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_609,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_610,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_611,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_612,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_613,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_614,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_615,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_616,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_617,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_618,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_619,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_620,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_621,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_622,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_623,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_624,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_625,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_626,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_627,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_628,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_629,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_630,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_631,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_632,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_633,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_634,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_635,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_636,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_637,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_638,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_639,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_640,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_641,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_642,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_643,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_644,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_645,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_646,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_647,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_648,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_649,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_650,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_651,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_652,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_653,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_654,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_655,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_656,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_657,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_658,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_659,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_660,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_661,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_662,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_663,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_664,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_665,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_666,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_667,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_668,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_669,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_670,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_671,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_672,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_673,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_674,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_675,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_676,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_677,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_678,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_679,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_680,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_681,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_682,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_683,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_684,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_685,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_686,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_687,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_688,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_689,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_690,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_691,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_692,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_693,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_694,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_695,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_696,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_697,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_698,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_699,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_700,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_701,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_702,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_703,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_704,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_705,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_706,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_707,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_708,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_709,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_710,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_711,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_712,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_713,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_714,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_715,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_716,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_717,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_718,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_719,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_720,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_721,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_722,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_723,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_724,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_725,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_726,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_727,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_728,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_729,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_730,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_731,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_732,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_733,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_734,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_735,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_736,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_737,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_738,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_739,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_740,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_741,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_742,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_743,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_744,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_745,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_746,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_747,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_748,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_749,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_750,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_751,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_752,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_753,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_754,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_755,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_756,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_757,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_758,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_759,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_760,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_761,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_762,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_763,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_764,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_765,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_766,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_767,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_768,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_769,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_770,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_771,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_772,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_773,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_774,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_775,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_776,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_777,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_778,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_779,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_780,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_781,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_782,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_783,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_784,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_785,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_786,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_787,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_788,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_789,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_790,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_791,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_792,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_793,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_794,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_795,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_796,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_797,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_798,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_799,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_800,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_801,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_802,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_803,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_804,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_805,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_806,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_807,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_808,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_809,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_810,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_811,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_812,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_813,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_814,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_815,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_816,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_817,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_818,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_819,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_820,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_821,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_822,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_823,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_824,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_825,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_826,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_827,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_828,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_829,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_830,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_831,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_832,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_833,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_834,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_835,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_836,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_837,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_838,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_839,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_840,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_841,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_842,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_843,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_844,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_845,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_846,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_847,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_848,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_849,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_850,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_851,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_852,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_853,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_854,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_855,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_856,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_857,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_858,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_859,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_860,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_861,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_862,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_863,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_864,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_865,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_866,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_867,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_868,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_869,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_870,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_871,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_872,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_873,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_874,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_875,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_876,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_877,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_878,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_879,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_880,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_881,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_882,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_883,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_884,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_885,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_886,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_887,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_888,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_889,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_890,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_891,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_892,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_893,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_894,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_895,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_896,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_897,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_898,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_899,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_900,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_901,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_902,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_903,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_904,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_905,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_906,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_907,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_908,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_909,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_910,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_911,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_912,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_913,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_914,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_915,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_916,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_917,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_918,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_919,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_920,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_921,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_922,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_923,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_924,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_925,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_926,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_927,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_928,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_929,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_930,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_931,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_932,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_933,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_934,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_935,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_936,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_937,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_938,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_939,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_940,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_941,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_942,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_943,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_944,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_945,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_946,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_947,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_948,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_949,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_950,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_951,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_952,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_953,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_954,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_955,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_956,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_957,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_958,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_959,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_960,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_961,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_962,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_963,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_964,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_965,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_966,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_967,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Viral Fever,fever headache case_968,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,mild fever fatigue case_969,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,fever body ache case_970,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Viral Fever,low grade fever case_971,paracetamol | rest,blood test,hydration | rest,General Physician,Viral infection causing fever,3
+Bacterial Pneumonia,high fever chest pain case_972,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,productive cough breathlessness case_973,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,shortness of breath fever case_974,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Bacterial Pneumonia,chest tightness cough case_975,antibiotics | hospitalization,chest x-ray | sputum test,complete antibiotics,Pulmonologist,Bacterial lung infection,7
+Asthma,wheezing breathlessness case_976,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,chest tightness wheezing case_977,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,shortness of breath case_978,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Asthma,night cough wheeze case_979,inhaler | bronchodilator,spirometry,avoid triggers,Pulmonologist,Chronic airway inflammation,5
+Migraine,severe headache nausea case_980,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,throbbing headache case_981,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,headache light sensitivity case_982,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Migraine,vomiting headache case_983,pain relievers | rest,neurological exam,avoid bright light,Neurologist,Neurological headache disorder,4
+Food Poisoning,vomiting diarrhea case_984,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,stomach pain nausea case_985,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,loose motions case_986,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Food Poisoning,abdominal cramps vomiting case_987,oral rehydration | antibiotics,stool test,safe food | hydration,Gastroenterologist,Food-borne illness,5
+Minor Injury,bleeding cut wound case_988,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,hand injury bleeding case_989,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,minor cut pain case_990,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Minor Injury,wound bleeding case_991,wound cleaning | bandage,wound inspection,keep wound clean,General Surgeon,Cuts or bleeding injury,6
+Common Cold,sneezing runny nose case_992,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,nasal congestion cough case_993,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,sore throat cold case_994,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Common Cold,runny nose headache case_995,antihistamines | paracetamol,physical examination,rest | hydration,General Physician,Viral upper respiratory infection,2
+Influenza,high fever body pain case_996,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,fever chills cough case_997,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,headache fatigue fever case_998,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4
+Influenza,weakness fever case_999,antiviral drugs | paracetamol,rapid flu test,rest | isolation,General Physician,Seasonal influenza infection,4

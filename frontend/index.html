@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Medical Chatbot Assistant</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+<div class="app">
+    <div class="card">
+
+        <!-- HEADER -->
+        <div class="header">
+            <div class="header-left">
+                <div class="bot-avatar">🩺</div>
+                <div class="title">
+                    <div class="title-main">Health Assistant</div>
+                    <div class="title-sub">Describe your symptoms naturally</div>
+                </div>
+            </div>
+
+            <div class="header-right">
+                <div class="chip">NLP</div>
+                <div class="chip">Voice Input</div>
+
+                <div class="toggle" id="darkToggle">
+                    <span class="toggle-icon sun">☀</span>
+                    <span class="toggle-icon moon">🌙</span>
+                    <div class="toggle-circle"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- BODY -->
+        <div class="body">
+
+            <!-- CHAT PANE -->
+            <div class="chat-pane">
+                <div id="chatMessages" class="chat-messages">
+                    <div class="chat-row bot">
+                        <div class="avatar bot">🩺</div>
+                        <div class="bubble bot">
+                            Hi! I’m your medical assistant.
+                            <small>Try: “I have fever, cough, and body pain since 2 days.”</small>
+                            <div class="reaction">💡</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- INPUT -->
+                <div class="input-area">
+
+                    <!-- Loading animation -->
+                    <div class="loading-animation" id="loadingAnimation" style="display:none;">
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                    </div>
+
+                    <div class="input-row">
+                        <div class="input-wrapper">
+                            <input id="userInput" placeholder="Type your symptoms..." />
+                            <button class="icon-btn" id="voiceBtn">🎙</button>
+                        </div>
+
+                        <button class="send-btn" id="sendBtn">Send ➤</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- SIDE PANE -->
+            <div class="side-pane">
+                <div>
+                    <div class="side-title">Diagnosis</div>
+
+                    <!-- Updated dynamically by script.js -->
+                    <div id="diseaseCardContainer" class="empty-state">
+                        No prediction yet.
+                    </div>
+                </div>
+
+                <button class="doctor-btn" id="doctorBtn">
+                    📞 Start Doctor Video Call
+                </button>
+
+                <div class="status-text" id="statusText">
+                    Backend: waiting...
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
